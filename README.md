@@ -22,9 +22,15 @@ This system will do some activities like store medicine
 data, search medicine data efficiency, update ,delete, edit 
 medicine information and prepare bill for medicine. 
 We will create this project with the help of Java language.
+## Project Video
+
 
 
 ## Tech Stack
+
+Uploading bandicam 2024-06-26 07-53-11-761.mp4…
+
+
 
 
 Language: Jave
