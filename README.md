@@ -24,6 +24,11 @@ medicine information and prepare bill for medicine.
 We will create this project with the help of Java language.
 ## Project Video
 
+
+https://github.com/LubnaYesmin/DBMS-Pharmacy-Management-System-Project/assets/143532069/88182db0-33a5-42b8-b7b1-5899160b5719
+
+
+
 ## Slide
 
 [Pharmacy-Management-System.pdf](https://github.com/user-attachments/files/16025631/Pharmacy-Management-System.pdf)
