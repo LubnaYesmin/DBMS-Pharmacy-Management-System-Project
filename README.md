@@ -24,6 +24,9 @@ medicine information and prepare bill for medicine.
 We will create this project with the help of Java language.
 ## Project Video
 
+## Slide
+
+[Pharmacy-Management-System.pdf](https://github.com/user-attachments/files/16025631/Pharmacy-Management-System.pdf)
 
 
 ## Tech Stack
