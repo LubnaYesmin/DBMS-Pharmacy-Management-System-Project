@@ -29,6 +29,8 @@ We will create this project with the help of Java language.
 [Pharmacy-Management-System.pdf](https://github.com/user-attachments/files/16025631/Pharmacy-Management-System.pdf)
 
 
+[Pharmacy-Management-System.pptx](https://github.com/user-attachments/files/16028737/Pharmacy-Management-System.pptx)
+
 ## Tech Stack
 
 Language: Jave
