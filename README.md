@@ -31,11 +31,6 @@ We will create this project with the help of Java language.
 
 ## Tech Stack
 
-Uploading bandicam 2024-06-26 07-53-11-761.mp4…
-
-
-
-
 Language: Jave
 
 Fronted:Java Swing,AWT
