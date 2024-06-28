@@ -45,8 +45,8 @@ Database: MySql
 
 ## Roadmap
 
+![Screenshot_29-6-2024_1552_](https://github.com/LubnaYesmin/DBMS-Pharmacy-Management-System-Project/assets/143532069/79150a13-2cf5-464c-98df-427fb93b4ea4)
 
-![Screenshot_28-6-2024_122133_](https://github.com/LubnaYesmin/DBMS-Pharmacy-Management-System-Project/assets/143532069/2d5d98be-8cfe-4597-9f78-5bdcd6ca30f7)
 
 
 ## Features
